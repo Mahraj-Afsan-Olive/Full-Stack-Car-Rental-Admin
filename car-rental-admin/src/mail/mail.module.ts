@@ -11,8 +11,8 @@ import { MailController } from './mail.controller';
         port: 587,
         secure: false, 
         auth: {
-          user: 'oliveshikder2018@gmail.com',       
-          pass: 'phpqgfuxjxtgnuux',       
+          user: 'your gmail address',       
+          pass: 'gmail app password',       
         },
       },
       defaults: {
